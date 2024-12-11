@@ -1,2 +1,4 @@
-ABCD
+D
 EFG
+
+Now what is ABC?
